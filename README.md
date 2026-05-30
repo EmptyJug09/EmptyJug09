@@ -14,11 +14,13 @@ I'm an aspiring software engineer and student developer interested in building m
 - Computer science
 - Software engineering
 - Problem solving
+- Applied AI engineering
 
 ## Goals
 - Build strong real-world projects
 - Contribute consistently on GitHub
 - Continue improving as a developer and teammate
+- Gain proficiency in applied AI engineering
 
 ## Technologies
 - Python
