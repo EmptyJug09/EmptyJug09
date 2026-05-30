@@ -23,6 +23,7 @@ I'm an aspiring software engineer and student developer interested in building m
 ## Technologies
 - Python
 - Java
-- Git & GitHub
-
+- Javascript
+- Git
+- html
 Thanks for checking out my profile.
