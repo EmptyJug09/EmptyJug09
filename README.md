@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dhruv 👋
 
-<!--
-**EmptyJug09/EmptyJug09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer and student developer interested in building meaningful projects and continuously improving my skills.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- RPG game development projects
+- Data analysis and statistics tools
+- Learning software engineering fundamentals
+- Improving clean code and development workflow practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+- Game development
+- Data analysis
+- Computer science
+- Software engineering
+- Problem solving
+
+## Goals
+- Build strong real-world projects
+- Contribute consistently on GitHub
+- Continue improving as a developer and teammate
+
+## Technologies
+- Python
+- Java
+- Git & GitHub
+
+Thanks for checking out my profile.
