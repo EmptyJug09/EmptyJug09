@@ -25,5 +25,4 @@ I'm an aspiring software engineer and student developer interested in building m
 - Java
 - Javascript
 - Git
-- html
-Thanks for checking out my profile.
+- HTML
