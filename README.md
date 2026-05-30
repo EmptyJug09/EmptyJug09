@@ -20,7 +20,7 @@ I'm an aspiring software engineer and student developer interested in building m
 - Build strong real-world projects
 - Contribute consistently on GitHub
 - Continue improving as a developer and teammate
-- Gain proficiency in applied AI engineering
+- Gain proficiency in Applied AI engineering
 
 ## Technologies
 - Python
